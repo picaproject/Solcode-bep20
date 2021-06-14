@@ -1,2 +1,1 @@
-# Solcode-bep20
-Solcode BEP20
+# Solcode BEP20
